@@ -1,0 +1,3 @@
+"Peptide" "Mean"
+"18" "DQNLAFGMKLAA" 1185
+"74" "QHFGWKESNTPP" 63

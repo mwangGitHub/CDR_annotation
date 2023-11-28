@@ -1,0 +1,3 @@
+"Peptide" "Mean"
+"24" "ILPLKETVNYKR" 538
+"84" "LLPSFENPTRLH" 494.5

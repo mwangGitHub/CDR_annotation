@@ -1,0 +1,3 @@
+"Peptide" "Mean"
+"6" "LSSGYRPAPGVK" 84.5
+"7" "NVDLWAGLMLRT" 38.5

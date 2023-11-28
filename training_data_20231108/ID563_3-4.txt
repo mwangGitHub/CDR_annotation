@@ -1,0 +1,3 @@
+"Peptide" "Mean"
+"6" "EYSLTARELARL" 88.5
+"14" "YYSEWPEDWHVQ" 162
